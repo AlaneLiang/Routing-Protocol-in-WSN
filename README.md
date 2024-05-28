@@ -1,7 +1,7 @@
-# Routing Algorithm Analysis
+# Reinforcement Learning Based Routing Algorithm Analysis
 This repository contains a Jupyter Notebook that analyzes the performance of different routing algorithms in the presence of malicious nodes in a network. The analysis includes metrics such as the number of packets delivered, energy consumption, energy efficiency, and packet loss.
 
-The following routing algorithms are analyzed:
+The following reinforcement learning based routing algorithms are analyzed:
 
 * [R2LTO](https://ieeexplore.ieee.org/document/9231883)
 
